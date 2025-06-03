@@ -1,0 +1,17 @@
+Findings:
+
+Key variables influencing fertilizer recommendations: soil_pH, soil_moisture, temperature.
+
+Highest average soil moisture crop: Wheat.
+
+Crops with temperatures > 30°C and low moisture need increased irrigation.
+
+Recommendations:
+
+Automate fertilizer dosing via AI models trained on cleaned data.
+
+Adjust irrigation schedules for heat-sensitive crops with low moisture retention.
+
+Optimize fertilizer use based on soil moisture and temperature.
+
+Monitor pH levels for crops sensitive to acidity
